@@ -1,0 +1,28 @@
+newmtl trumpet_corrected:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl trumpet_corrected:lambert2SG
+illum 4
+Kd 0.76 0.60 0.42
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl trumpet_corrected:trumpet_brass1
+illum 4
+Kd 0.86 0.65 0.20
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.75 0.75 0.75
+Ns 0.06
+newmtl trumpet_corrected:trumpet_silver1
+illum 4
+Kd 0.77 0.81 0.83
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
